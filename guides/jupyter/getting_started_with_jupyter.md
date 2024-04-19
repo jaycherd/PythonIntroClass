@@ -21,9 +21,7 @@ VS Code needs to know which Python interpreter to use:
 Before running any Jupyter notebooks, make sure to install `ipykernel`, we'll also use `matplotlib` and `numpy`:
 
 ```bash
-pip install -U ipykernel
-pip install -U matplotlib
-pip install -U numpy
+pip install -U ipykernel, matplotlib, numpy
 ```
 
 ## Creating a Project
