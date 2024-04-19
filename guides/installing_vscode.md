@@ -1,11 +1,9 @@
 <style>
-.markdown-img {
+img {
     width: 50%;  /* Sets the image width to 50% of the container */
-    border: 2px solid #ccc; /* Optional: adds a border around the image */
-    margin: 10px 0; /* Adds vertical spacing around the image */
+    margin: 10px auto; /* Adds vertical spacing around the image */
     display: block; /* Ensures images are block level, so each starts on a new line */
-    margin-left: auto; /* Together with the next line, centers the image */
-    margin-right: auto;
+    border: 2px solid #ccc;
 }
 </style>
 # Installing Visual Studio Code
