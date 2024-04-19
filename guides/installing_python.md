@@ -24,6 +24,7 @@ This guide will help you download and install Python, feel free to use it to dow
 
 1. Run the installer you downloaded.
 2. Ensure you select the option to **Add Python to PATH** before proceeding with the installation.
+<img src="../images/py_addpath.png" alt="adding path image">
 3. Click on the `Install` button and follow the prompts to complete the installation.
 
 ## Step 4: Verify Installation
@@ -37,3 +38,4 @@ This guide will help you download and install Python, feel free to use it to dow
     ```bash
     pip --version
     ```
+<img src="../images/py_verify.png" alt="verification image">

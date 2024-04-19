@@ -44,11 +44,11 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 5. **Install the Python Extension**:
    - Go to the extensions tab
    - Search for and install the `Python` extension
-   <img src="../images/vscode_pyextension.png" alt="theme image">
+   <img src="../images/vscode_pyextension.png" alt="ext image">
 
 6. **Selecting the Python Interpreter**:
    - After installing the Python extension, open a Python file or just the Command Palette by pressing `Ctrl+Shift+P`.
    - Type `Python: Select Interpreter`, then choose the interpreter you installed earlier. VS Code will use this interpreter for running Python code and debugging.
-   <img src="../images/vscode_interpreter.png" alt="theme image">
+   <img src="../images/vscode_interpreter.png" alt="interpreter image">
 
 This setup guide provides a basic foundation for using Visual Studio Code for Python development. The same steps can generally be applied to other programming languages by installing the respective extensions for those languages from the VS Code Marketplace.
