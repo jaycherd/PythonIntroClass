@@ -18,9 +18,7 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 2. **Choose the correct version for your operating system**:
    - Visual Studio Code provides different versions for different needs and operating systems. Select the appropriate one for your setup.
    - During install just follow the prompts, and if you want you can "add open with code" action which will let you open vscode from within file folders
-   <div class="markdown-img">
    <img src="../images/vscode_setupoptions.png" alt="Options image">
-   </div>
 
 
 ### For Windows Users:
@@ -47,24 +45,18 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 4. **Customize**:
    - VS Code is highly customizable. Explore the Extensions Marketplace directly within the app to find extensions, such as Python, C++, or Markdown support
    - You can also change the way your editor looks by clicking the settings symbol and going to `Themes`
-   <div class="markdown-img">
    <img src="../images/vscode_themes.png" alt="theme image">
-   </div>
 
 ## Configuring Python in Visual Studio Code
 
 5. **Install the Python Extension**:
    - Go to the extensions tab
    - Search for and install the `Python` extension
-   <div class="markdown-img">
    <img src="../images/vscode_pyextension.png" alt="theme image">
-   </div>
 
 6. **Selecting the Python Interpreter**:
    - After installing the Python extension, open a Python file or just the Command Palette by pressing `Ctrl+Shift+P`.
    - Type `Python: Select Interpreter`, then choose the interpreter you installed earlier. VS Code will use this interpreter for running Python code and debugging.
-   <div class="markdown-img">
    <img src="../images/vscode_interpreter.png" alt="theme image">
-   </div>
 
 This setup guide provides a basic foundation for using Visual Studio Code for Python development. The same steps can generally be applied to other programming languages by installing the respective extensions for those languages from the VS Code Marketplace.
