@@ -9,19 +9,21 @@ First, you need to install the necessary extensions, search for and add these tw
 - **Python Extension**: Adds rich support for the Python language to VS Code.
 - **Jupyter Extension**: Enables Jupyter notebook support within VS Code.
 
-## Selecting the Python Interpreter
+## Selecting the Python Interpreter (If you haven't already)
 
 VS Code needs to know which Python interpreter to use:
 
 1. Open the command palette with `Ctrl + Shift + P`.
-2. Type `Python: Select Interpreter` and choose the interpreter you installed earlier.
+2. Type `Python: Select Interpreter` and choose the version you installed earlier.
 
 ## Preparing the Environment
 
-Before running any Jupyter notebooks, make sure to install `ipykernel`:
+Before running any Jupyter notebooks, make sure to install `ipykernel`, we'll also use `matplotlib` and `numpy`:
 
 ```bash
 pip install -U ipykernel
+pip install -U matplotlib
+pip install -U numpy
 ```
 
 ## Creating a Project
@@ -37,7 +39,7 @@ pip install -U ipykernel
 ## Working with Notebooks
 
 - **Add Cells**: Use cells to write and execute Python code in small, manageable chunks.
-- **Data Visualization**: Use the magic command `%matplotlib inline` if you are working with matplotlib for inline plots.
+- **Data Visualization**: With matplotlib you can even generate visualizations within the notebook itself
 
 ## Converting Notebook to Python Script
 
@@ -45,19 +47,6 @@ To transition from an experimental phase to a more structured Python script:
 
 1. Click the `...` in the notebook's top toolbar.
 2. Select `Export` and then `Export to Python Script`.
-
-## Running a Python Script
-
-After converting your notebook to a `.py` script, you can easily run it:
-
-1. Open the integrated terminal in VS Code with `Ctrl + Shift + \` or navigate to your project folder in your regular terminal application.
-2. Run your script using the command:
-
-```bash
-python name_of_file.py
-```
-
-Replace `name_of_file.py` with the name of your script.
 
 ## Conclusion
 
