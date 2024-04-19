@@ -15,7 +15,7 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 - **ARM Installer**: If your computer uses an ARM processor, select the ARM version. This is less common and is usually found in newer, energy-efficient laptops.
 
    - **User Installer vs. System Installer**:
-     - **User Installer**: Recommended for personal installations. This installer does not require administrator privileges and installs VS Code in the user's directory.
+     - **User Installer**: Recommended for personal installations, installs VS Code in the user's directory.
      - **System Installer**: Requires administrator rights and installs VS Code for all users on the machine.
 
 ### For macOS Users:
@@ -29,10 +29,10 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 ## Final Steps
 
 3. **Launch Visual Studio Code**:
-   - After installation, open Visual Studio Code from your applications directory or start menu. On the first launch, it might take a few moments to initialize.
+   - After installation, open Visual Studio Code from your applications directory or start menu.
 
 4. **Customize and Install Extensions**:
-   - VS Code is highly customizable. Explore the Extensions Marketplace directly within the app to find extensions that suit your development needs, such as Python, C++, or Markdown support.
+   - VS Code is highly customizable. Explore the Extensions Marketplace directly within the app to find extensions, such as Python, C++, or Markdown support.
 
 5. **Enjoy Coding**:
    - You’re now ready to start your coding projects in Visual Studio Code. Create a new file, open a project, or explore the interactive tutorials nerd.
