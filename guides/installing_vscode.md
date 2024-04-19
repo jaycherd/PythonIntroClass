@@ -1,11 +1,3 @@
-<style>
-img {
-    width: 1%;  /* Sets the image width to 50% of the container */
-    margin: 10px auto; /* Adds vertical spacing around the image */
-    display: block; /* Ensures images are block level, so each starts on a new line */
-    border: 2px solid #ccc;
-}
-</style>
 # Installing Visual Studio Code
 
 Visual Studio Code (VS Code) is a powerful and lightweight code editor developed by Microsoft. It supports development in multiple programming languages and comes with a variety of useful features, such as debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.
