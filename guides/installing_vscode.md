@@ -1,6 +1,6 @@
 <style>
 img {
-    width: 50%;  /* Sets the image width to 50% of the container */
+    width: 1%;  /* Sets the image width to 50% of the container */
     margin: 10px auto; /* Adds vertical spacing around the image */
     display: block; /* Ensures images are block level, so each starts on a new line */
     border: 2px solid #ccc;
