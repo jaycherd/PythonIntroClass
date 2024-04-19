@@ -49,4 +49,3 @@ To transition from an experimental phase to a more structured Python script:
 ## Conclusion
 
 By following these steps, you can leverage the power of Jupyter notebooks within VS Code for data analysis and then transition smoothly to a standard Python script for more structured projects. This workflow supports both exploratory data analysis and production-ready code development.
-```
