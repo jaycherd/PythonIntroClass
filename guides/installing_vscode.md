@@ -10,7 +10,7 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 2. **Choose the correct version for your operating system**:
    - Visual Studio Code provides different versions for different needs and operating systems. Select the appropriate one for your setup.
    - During install just follow the prompts, and if you want you can "add open with code" action which will let you open vscode from within file folders
-   <img src="images/vscode_setupoptions.png" alt="Description of the image" style="width: 50%;">
+   <img src="../images/vscode_setupoptions.png" alt="Description of the image" style="width: 50%;">
 
 
 ### For Windows Users:
