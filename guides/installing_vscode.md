@@ -9,6 +9,9 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 
 2. **Choose the correct version for your operating system**:
    - Visual Studio Code provides different versions for different needs and operating systems. Select the appropriate one for your setup.
+   - During install just follow the prompts, and if you want you can "add open with code" action which will let you open vscode from within file folders
+   <img src="images/vscode_setupoptions.png" alt="Description of the image" style="width: 50%;">
+
 
 ### For Windows Users:
 - **x64 Installer**: Most Windows computers use 64-bit processors. If you have an Intel or AMD processor, choose the x64 version.
@@ -31,8 +34,18 @@ Visual Studio Code (VS Code) is a powerful and lightweight code editor developed
 3. **Launch Visual Studio Code**:
    - After installation, open Visual Studio Code from your applications directory or start menu.
 
-4. **Customize and Install Extensions**:
-   - VS Code is highly customizable. Explore the Extensions Marketplace directly within the app to find extensions, such as Python, C++, or Markdown support.
+4. **Customize**:
+   - VS Code is highly customizable. Explore the Extensions Marketplace directly within the app to find extensions, such as Python, C++, or Markdown support
+   - You can also change the way your editor looks by clicking the settings symbol and going to `Themes`
 
-5. **Enjoy Coding**:
-   - You’re now ready to start your coding projects in Visual Studio Code. Create a new file, open a project, or explore the interactive tutorials nerd.
+## Configuring Python in Visual Studio Code
+
+5. **Install the Python Extension**:
+   - Go to the extensions tab
+   - Search for and install the `Python` extension
+
+6. **Selecting the Python Interpreter**:
+   - After installing the Python extension, open a Python file or just the Command Palette by pressing `Ctrl+Shift+P`.
+   - Type `Python: Select Interpreter`, then choose the interpreter you installed earlier. VS Code will use this interpreter for running Python code and debugging.
+
+This setup guide provides a basic foundation for using Visual Studio Code for Python development. The same steps can generally be applied to other programming languages by installing the respective extensions for those languages from the VS Code Marketplace.
