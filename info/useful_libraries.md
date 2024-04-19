@@ -1,6 +1,6 @@
 # Useful Python Libraries for Stats Nerds
 
-Useful libraries for scientific computing, data analysis, and visualization. Below is a list of some essential libraries that you may find beneficial throughout your Python journey.
+Useful libraries for scientific computing, data analysis, and visualization.
 
 ## NumPy
 - **Description**: Provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
