@@ -48,4 +48,4 @@ To transition from an experimental phase to a more structured Python script:
 
 ## More on Jupyter
 
-If you want to see an example of ways to use Jupyter, there is a demo.ipynb file in info/python/jupyter.
+If you want to see an example of ways to use Jupyter, there is a demo.ipynb file in info/jupyter
